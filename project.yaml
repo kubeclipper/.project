@@ -22,7 +22,7 @@ repositories:
 
 website: "https://www.kubeclipper.io/"
 
-artwork: "https://landscape.cncf.io/logos/kubeclipper.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kubeclipper"
 
 adopters:
   path: "https://github.com/kubeclipper/kubeclipper/blob/master/ADOPTERS.md"
